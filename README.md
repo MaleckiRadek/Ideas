@@ -2,7 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Language-persuasive techniques attempts. 
+# Detection of language-persuasive techniques attempts. 
 
 Final project for the Building AI course
 
