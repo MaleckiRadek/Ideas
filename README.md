@@ -6,7 +6,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 Final project for the Building AI course
 
-## Summary.
+## Summary
 
 An application supporting the detection of language-persuasive techniques attempts. 
 
